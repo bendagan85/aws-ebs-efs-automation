@@ -21,4 +21,5 @@ It automatically provisions an EC2 instance with two types of storage attached a
 
 ## 📸 Outcome
 Server running with both Block and Network storage attached:
+<img width="941" height="207" alt="image" src="https://github.com/user-attachments/assets/f18cfebb-4e32-4a71-a023-3f0a7a1fff17" />
 
